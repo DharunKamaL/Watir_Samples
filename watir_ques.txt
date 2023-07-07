@@ -1,0 +1,10 @@
+xpath
+contains
+svg tag
+index xpaths
+
+
+
+
+watir methods
+like sendkeys,click,clear the text,to select from the drop down,to scroll,to select radio button , to take screenshot
